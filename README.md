@@ -46,4 +46,24 @@ Welcome to my GitHub! I’m passionate about building software and systems that 
 ---
 
 > 💬 *“I'm building the future from the ground up — where code meets community, and technology supports everyday life.”*
+>
+> ---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![TinkerCAD](https://img.shields.io/badge/-TinkerCAD-F37726?style=flat&logo=autodesk&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cellous&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cellous&layout=compact)
+
 
