@@ -13,10 +13,15 @@ Welcome to my GitHub! I’m passionate about building software and systems that 
 - 🗃️ **Database Systems**: MySQL/MariaDB for remote analytics
 - 📐 **CAD Design & Drafting**: AutoCAD, Inventor, and TinkerCAD modeling
 - 🧪 **QA & Testing**: Manual testing, machine learning exploration, and system documentation
+- 🧠 Autonomous AI Agents: Reason–Act–Reflect loops, memory logging, and offline agent systems
+
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 [Autonomous AI Agents – Execution & Memory](https://github.com/Cellous/ai-bootcamp-portfolio/tree/main/week-05-agent-execution-and-memory)
+> Built offline AI agents that simulate the Reason → Act → Reflect loop using Python and Gradio. Implemented persistent memory and ActionStep logging to track agent decisions without relying on paid inference APIs.
 
 ### 🔹 [Farm Sensor Database System](https://github.com/Cellous/farm_sensor_project)
 > An IoT-powered data system that uses DHT sensors, soil moisture, and pH sensors with a Raspberry Pi and Python script to collect, store, and analyze real-time farm conditions.
@@ -52,6 +57,7 @@ Welcome to my GitHub! I’m passionate about building software and systems that 
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat&logo=gradio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
