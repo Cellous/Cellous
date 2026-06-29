@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m passionate about building software and systems that 
 - 📐 **CAD Design & Drafting**: AutoCAD, Inventor, and TinkerCAD modeling
 - 🧪 **QA & Testing**: Manual testing, machine learning exploration, and system documentation
 - 🧠 Autonomous AI Agents: Reason–Act–Reflect loops, memory logging, and offline agent systems
-
+- New AI model: https://chat.z.ai/
 
 ---
 
